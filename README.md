@@ -10,3 +10,9 @@ http://www.phpied.com/image-fun-with-php-part-2/#more
 
 For the best tip on centering the text on an image: http://stackoverflow.com/questions/15982732/php-gd-align-text-center-horizontally-and-decrease-font-size-to-keep-it-inside
 
+For the best JavaScript HTML WYSIWYG editor:
+https://www.tinymce.com/
+
+For snazzy error messages:
+http://t4t5.github.io/sweetalert/
+
