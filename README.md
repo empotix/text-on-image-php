@@ -2,6 +2,7 @@
 Using PHP GD Library, you can add text to an image to share directly to Pinterest via the Pinterest share button or download to share to Facebook, Twitter and Instagram. Create beautiful quotes, affirmations and testimonials from your website!
 
 Thanks to the following resources. 
+
 For an easy manual to understand the functions: 
 http://php.net/manual/en/function.imagefilter.php
 
@@ -15,4 +16,7 @@ https://www.tinymce.com/
 
 For snazzy error messages:
 http://t4t5.github.io/sweetalert/
+
+Finally for awesome work on a great library:
+http://libgd.github.io/
 
